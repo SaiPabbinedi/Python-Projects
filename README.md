@@ -106,8 +106,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or collaboration opportunities, please feel free to reach out to me:
 
-📧 Email: [your.email@example.com](mailto:saikumarpabbinedi@gmail.com)
-🌐 Website: [www.yourwebsite.com](http://www.yourwebsite.com)
+📧 Email: [Email](mailto:saikumarpabbinedi@gmail.com)
+
+🌐 Website: [Portfolio](http://www.yourwebsite.com)
+
 📱 LinkedIn: [Satya Pabbinedi](https://www.linkedin.com/in/satyapabbinedi123/)
 
 Don't hesitate to connect with me. I look forward to hearing from you!
