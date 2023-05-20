@@ -108,6 +108,6 @@ For any inquiries or collaboration opportunities, please feel free to reach out 
 
 📧 Email: [your.email@example.com](mailto:saikumarpabbinedi@gmail.com)
 🌐 Website: [www.yourwebsite.com](http://www.yourwebsite.com)
-📱 LinkedIn: (https://www.linkedin.com/in/satyapabbinedi123/)
+📱 LinkedIn: [Satya Pabbinedi](https://www.linkedin.com/in/satyapabbinedi123/)
 
 Don't hesitate to connect with me. I look forward to hearing from you!
