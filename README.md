@@ -1,4 +1,4 @@
-# Project Title
+# "Python Project Showcase: Exploring the Versatility of Python in Diverse Applications"
 
 🐍 Python Project Showcase: Machine Learning and Data Science 📊
 
@@ -106,8 +106,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or collaboration opportunities, please feel free to reach out to me:
 
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
+📧 Email: [your.email@example.com](mailto:saikumarpabbinedi@gmail.com)
 🌐 Website: [www.yourwebsite.com](http://www.yourwebsite.com)
-📱 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+📱 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/satyapabbinedi123/)
 
 Don't hesitate to connect with me. I look forward to hearing from you!
